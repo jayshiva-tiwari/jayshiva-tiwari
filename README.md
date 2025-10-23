@@ -21,7 +21,7 @@
 **DevOps:** Docker, AWS  
 **Others:** Git, REST APIs, Postman  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshiva-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="jayshiva-tiwari" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshiva-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="jayshiva-tiwari" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayshiva-tiwari" alt="jayshiva-tiwari" /></a> </p>
 
