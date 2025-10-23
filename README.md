@@ -24,7 +24,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshiva-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="jayshiva-tiwari" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayshiva-tiwari" alt="jayshiva-tiwari" /></a> </p> -->
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=jayshiva-tiwari&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/shivatripathi__" target="blank"><img src="https://img.shields.io/twitter/follow/shivatripathi__?logo=twitter&style=for-the-badge" alt="shivatripathi__" /></a> </p>
