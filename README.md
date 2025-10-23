@@ -42,12 +42,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayshiva-tiwari&show_icons=true&locale=en" alt="jayshiva-tiwari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshiva-tiwari&" alt="jayshiva-tiwari" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshiva-tiwari&" alt="jayshiva-tiwari" /></p> -->
 
----
-
-### 📊 GitHub Stats
-![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
