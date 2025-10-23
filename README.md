@@ -26,7 +26,6 @@
 
 <p align="left"> <a href="https://twitter.com/shivatripathi__" target="blank"><img src="https://img.shields.io/twitter/follow/shivatripathi__?logo=twitter&style=for-the-badge" alt="shivatripathi__" /></a> </p>
 
-- 🤝 I’m looking for help with **Next.js SEO Optimization Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,12 +51,6 @@
 
 ---
 
-### 🌐 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINK)
-- 🐦 [Twitter](https://twitter.com/YOUR_HANDLE)
-- 📸 [Instagram](https://instagram.com/YOUR_HANDLE)
-- 🌎 [Portfolio](https://your-website.com)
 
----
 
 > “Code is like art — the cleaner it looks, the stronger it speaks.”
