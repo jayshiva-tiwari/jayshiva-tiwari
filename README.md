@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shiva Bhai
+# 👋 Hi, I’m Jayshiva Tiwari
 
 🚀 A passionate **MERN Stack Developer** and **Digital Creator**  
 💻 Love building web apps, automating workflows, and crafting digital experiences.
